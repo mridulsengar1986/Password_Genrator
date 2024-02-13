@@ -1,0 +1,50 @@
+#header{
+    
+padding-top:60px;
+padding-left: 40px;
+    text-align: left;
+    width:550px;
+    height:550px;
+    background-color: #1F2937;
+    color:white;
+}
+#first_line{
+ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: 800; 
+    margin-bottom: 0px; 
+}
+#second_line{
+    color:#10B981;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: 800;
+    margin-top: 0px;
+}
+#third_line{
+    font-size: x-large;
+    font-weight: 300;
+  }
+#pwd{
+    height:42px;
+    width:190px;
+    color:white;
+    background-color:#10B981;
+    font-size:large;
+    font-weight:100;
+    border-radius:5px;
+}
+hr{
+    margin-top:30px;
+}
+.genrator{
+    margin-top: 20px;
+    height:40px;
+    width: 190px;
+    color:white;
+    background-color:#1F2937;
+    font-size:large;
+    font-weight:100;
+    border-radius:5px; 
+}
